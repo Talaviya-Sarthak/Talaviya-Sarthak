@@ -4,7 +4,7 @@
 
 ---
 
-### 💡 Interested in Spring Boot & Microservices
+### 💡 ### 💡 Passionate about AI/ML and Data-Driven Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212897777-6b9f3c1f-6f6d-4f7d-bb47-1f0c6d4a0f5a.gif" width="40%" />
 <img src="https://user-images.githubusercontent.com/74038190/212897745-4a5fcb90-cc6b-4c1b-8e2b-9a5e6f7f6e6c.gif" width="40%" />
