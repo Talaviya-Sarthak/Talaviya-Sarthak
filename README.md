@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Talaviya-Sarthak/Talaviya-Sarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to my GitHub Page
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interested in Spring Boot & Microservices
+
+<img src="https://user-images.githubusercontent.com/74038190/212897777-6b9f3c1f-6f6d-4f7d-bb47-1f0c6d4a0f5a.gif" width="40%" />
+<img src="https://user-images.githubusercontent.com/74038190/212897745-4a5fcb90-cc6b-4c1b-8e2b-9a5e6f7f6e6c.gif" width="40%" />
+
+---
+
+## 🌐 Connect With Me
+
+<a href="mailto:stalaviya709@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/sarthak-talaviya-b33729317/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+---
+
+## 🧑‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=php,js,html,css,c,cpp,java" />
+
+---
+
+## 🧩 Frameworks & Databases
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,mysql,mongodb" />
+
+---
+
+## ⚙️ Build Tools & Others
+
+<img src="https://skillicons.dev/icons?i=maven,git,github,postman,vscode,linux" />
+
+---
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Talaviya-Sarthak&show_icons=true&theme=tokyonight" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talaviya-Sarthak&layout=compact&theme=tokyonight" width="47%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talaviya-Sarthak&theme=tokyo-night" width="100%" />
+
+---
+
+## 📌 Pinned Projects
+
+<a href="https://github.com/Talaviya-Sarthak/Complete-Spring-and-SpringBoot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=Complete-Spring-and-SpringBoot&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Talaviya-Sarthak/springboot-store-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=springboot-store-api&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Talaviya-Sarthak/springboot-crud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=springboot-crud&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Talaviya-Sarthak/dataforge-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=dataforge-backend&theme=tokyonight" />
+</a>
+
+---
+
+⭐ **Keep Learning | Build Projects | Write Clean Code**
+
+</div>
