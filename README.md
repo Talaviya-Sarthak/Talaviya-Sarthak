@@ -31,13 +31,13 @@
 
 ## 🧩 Frameworks & Databases
 
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb" />
 
 ---
 
 ## ⚙️ Build Tools & Others
 
-<img src="https://skillicons.dev/icons?i=maven,git,github,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 
 ---
 
@@ -50,25 +50,7 @@
 
 ---
 
-## 📌 Pinned Projects
 
-<a href="https://github.com/Talaviya-Sarthak/Complete-Spring-and-SpringBoot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=Complete-Spring-and-SpringBoot&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Talaviya-Sarthak/springboot-store-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=springboot-store-api&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Talaviya-Sarthak/springboot-crud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=springboot-crud&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Talaviya-Sarthak/dataforge-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talaviya-Sarthak&repo=dataforge-backend&theme=tokyonight" />
-</a>
-
----
 
 ⭐ **Keep Learning | Build Projects | Write Clean Code**
 
